@@ -23,25 +23,25 @@ st.write("")
 st.write("")
 
 st.subheader("Unicorns")
-st.image("unicornPic.png")
+st.image("app/unicornPic.png")
 
 st.write("")
 st.write("")
 st.write("")
 
 st.subheader("Innovation Cycles")
-st.image("Innovation_Cycles.png")
+st.image("app/Innovation_Cycles.png")
 
 st.write("")
 st.write("")
 st.write("")
 
 st.subheader("Innovation Index")
-st.image("Innovation-Index.png")
+st.image("app/Innovation-Index.png")
 
 st.write("")
 st.write("")
 st.write("")
 
 st.subheader("Technology Adoption")
-st.image("TechAdoption.png")
+st.image("app/TechAdoption.png")
