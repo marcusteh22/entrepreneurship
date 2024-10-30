@@ -14,7 +14,7 @@ st.write("")
 
 st.header("📈 Interesting Statistics")
 st.subheader("Best Cities and Countries for Startups")
-data = pd.read_csv("app/startupCities.csv")
+data = pd.read_csv("entrepreneurship/startupCities.csv")
 st.write(data)
 
 
