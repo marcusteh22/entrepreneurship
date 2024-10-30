@@ -7,7 +7,7 @@ st.text("""
         Part 2 explores the importance of validating startup ideas, and frameworks on 
         how to validate them.
         """)
-st.image("b.png", caption="Illustration by Evgenij Kungur")
+st.image("app/b.png", caption="Illustration by Evgenij Kungur")
 
 st.write("")
 st.write("")
