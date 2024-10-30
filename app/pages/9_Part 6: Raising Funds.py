@@ -5,7 +5,7 @@ st.text("""
         The goal of raising funds is to allow your business to grow and reach the next 
         milestones of the company's lifecycle.
         """)
-st.image("money.png", caption="Illustration by Jeff Aphisit")
+st.image("app/money.png", caption="Illustration by Jeff Aphisit")
 
 st.write("")
 st.write("")
@@ -52,7 +52,7 @@ st.write("")
 
 st.subheader("Example Pitch Decks")
 st.write("Uber Pitch Deck")
-st.image("uber.png")
+st.image("app/uber.png")
 st.text("To view full pitch deck: https://www.pitchdeckhunt.com/pitch-decks/uber")
 
 st.write("")
@@ -60,7 +60,7 @@ st.write("")
 st.write("")
 
 st.write("Canva Pitch Deck")
-st.image("canva.png")
+st.image("app/canva.png")
 st.text("To view full pitch deck: https://www.smartcompany.com.au/startupsmart/advice/canva-first-pitch-deck/")
 
 st.write("")
@@ -68,7 +68,7 @@ st.write("")
 st.write("")
 
 st.write("Facebook Pitch Deck")
-st.image("fb.png")
+st.image("app/fb.png")
 st.text("To view full pitch deck: https://www.failory.com/pitch-deck/facebook")
 
 st.write("")
