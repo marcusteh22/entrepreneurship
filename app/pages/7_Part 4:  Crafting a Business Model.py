@@ -6,7 +6,7 @@ st.text("""
         to create, deliver, and capture value. They serve as a flexible roadmap for testing
         assumptions, refining strategy, and guiding growth amid uncertainty.
         """)
-st.image("c.png", caption="Illustration by Hurca!")
+st.image("app/c.png", caption="Illustration by Hurca!")
 
 st.write("")
 st.write("")
@@ -27,7 +27,7 @@ st.write("")
 
 st.subheader("The Business Model Canvas")
 st.write("The Business Model Canvas is constructed out of nine building blocks — nine blocks that equip you to think of thousands of possibilities and alternatives. Then, find the best ones.")
-st.image("business_model.png")
+st.image("app/business_model.png")
 
 st.text("Template from: https://review.firstround.com/to-go-lean-master-the-business-model-canvas/")
 
