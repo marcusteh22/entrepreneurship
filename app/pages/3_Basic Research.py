@@ -7,7 +7,7 @@ st.text("""
         to Google, is an essential skill to have. This section provides you with some 
         advice on what info to search for, while doing research on your idea.
         """)
-st.image("google.png", caption="Illustration by Ivan Haidutski")
+st.image("app/google.png", caption="Illustration by Ivan Haidutski")
 
 st.write("")
 st.write("")
@@ -29,7 +29,7 @@ st.write("""
         how they might defer from you. And how your idea or product is differentiated. 
          """)
 
-st.image("comp.png")
+st.image("app/comp.png")
 
 st.write("")
 st.write("")
@@ -40,7 +40,7 @@ st.write("""
         from theirs? And what is your Unique Selling Point?
          """)
 
-st.image("usp.png")
+st.image("app/usp.png")
 
 st.write("")
 st.write("")
@@ -55,7 +55,7 @@ st.write("""
          
         Here's a great quote to illustrate this:
          """)
-st.image("problem.png")
+st.image("app/problem.png")
 st.write("")
 st.text("Resource: https://www.ycombinator.com/blog/the-real-product-market-fit/")
 
