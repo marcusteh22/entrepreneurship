@@ -5,7 +5,7 @@ st.text("""
         How some ideas were generated and turned into billion dollar companies. 
         And a framework on how to generate ideas yourself.
         """)
-st.image("leonardo.png", caption="Illustration by Chevalier Gambette")
+st.image("app/leonardo.png", caption="Illustration by Chevalier Gambette")
 
 st.write("")
 st.write("")
