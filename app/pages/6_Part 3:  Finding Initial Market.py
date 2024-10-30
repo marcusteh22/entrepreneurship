@@ -7,7 +7,7 @@ st.text("""
         adoption curve and teaches you how to identify customers that might be willing to 
         test your MVP.
         """)
-st.image("market.png", caption="Illustration by Muhammed Sajid")
+st.image("app/market.png", caption="Illustration by Muhammed Sajid")
 
 st.write("")
 st.write("")
@@ -51,7 +51,7 @@ st.write("""
          the curve. Customers who fall under the 'innovators' and 'early adopters' category would be 
          more likely to test out your MVP.
          """)
-st.image("adoption.png")
+st.image("app/adoption.png")
 st.write("""
 1. Innovators:
 The first to try, they embrace risks and are willing to invest in new ideas. Their enthusiasm drives early awareness and generates initial buzz.
