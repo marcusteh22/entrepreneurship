@@ -4,7 +4,7 @@ st.header("Finding Product Market Fit")
 st.text("""
         The existance of a startup is to find Product Market Fit, then Scale.
         """)
-st.image("e.png", caption="Illustration by Febin Raj")
+st.image("app/e.png", caption="Illustration by Febin Raj")
 
 st.write("")
 st.write("")
