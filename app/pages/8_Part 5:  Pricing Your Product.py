@@ -5,7 +5,7 @@ st.text("""
         Pricing is a science, but it is also an art, one that relies on the understanding 
         of marketing and psychology.
         """)
-st.image("d.png", caption="Illustration by Hurca!")
+st.image("app/d.png", caption="Illustration by Hurca!")
 
 st.write("")
 st.write("")
@@ -37,14 +37,14 @@ Offering different price points can expand your customer base, allowing you to r
        
 """)
 st.write("")
-st.image("pricing.png")
+st.image("app/pricing.png")
 
 st.write("")
 st.write("")
 st.write("")
 
 st.subheader("Here are some commonly used pricing strategies")
-st.image("price.png")
+st.image("app/price.png")
 
 st.write("")
 st.write("")
@@ -85,4 +85,4 @@ st.write("")
 if st.button("Challenges"):
     st.markdown("""
 Challenge 1: Study each one of these pricing strategies""")
-    st.image("price.png")
+    st.image("app/price.png")
