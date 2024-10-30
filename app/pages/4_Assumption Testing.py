@@ -6,7 +6,7 @@ st.text("""
         an assumption that there is a market for it, an assumption about a customer segment 
         etc. Hence, we must conduct experiments to tests all those assumptions.
         """)
-st.image("space.png",caption="Illustration by Stefan Große Halbuer")
+st.image("app/space.png",caption="Illustration by Stefan Große Halbuer")
 
 st.write("")
 st.write("")
@@ -40,25 +40,25 @@ st.write("""
          They created a simple website to test their assumptions.
          """)
 
-st.image("door.png")
+st.image("app/door.png")
 
 st.write("")
 st.write("")
 
 st.write("Example of Assumption Board used in the case of DoorDash")
-st.image("assume_board.png")
+st.image("app/assume_board.png")
 
 st.write("")
 st.write("")
 
 st.write("Example of Assumption Board used at Unilever")
-st.image("unilever.png")
+st.image("app/unilever.png")
 
 st.write("")
 st.write("")
 
 st.write("Case Study of Amazon's Assumption Test")
-st.image("amazon.png")
+st.image("app/amazon.png")
 
 st.write("")
 st.write("")
