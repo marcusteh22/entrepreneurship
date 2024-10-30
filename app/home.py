@@ -6,7 +6,7 @@ st.text("""
         Providing aspiring entrepreneurs with an actionable guide to gaining fundamental 
         skills and knowledge in entrepreneurship. From ideation to launching.
         """)
-st.image("a.png", caption="Illustrations by André Ducci")
+st.image("app/a.png", caption="Illustrations by André Ducci")
 
 st.write("")
 st.write("")
@@ -14,7 +14,7 @@ st.write("")
 
 st.header("📈 Interesting Statistics")
 st.subheader("Best Cities and Countries for Startups")
-data = pd.read_csv("entrepreneurship/startupCities.csv")
+data = pd.read_csv("app/startupCities.csv")
 st.write(data)
 
 
