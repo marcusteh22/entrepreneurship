@@ -7,7 +7,7 @@ st.text("""
         development. It is also use to test fundamental assumptions about the product
         and ideas.
         """)
-st.image("mvp.png", caption="Illustration by Estudio Santa Rita")
+st.image("app/mvp.png", caption="Illustration by Estudio Santa Rita")
 
 st.write("")
 st.write("")
@@ -41,7 +41,7 @@ riskiest assumption—that people would trust and find value in a seamless file-
          
 """)
 st.write("The video was their MVP")
-st.image("dropbox.png")
+st.image("app/dropbox.png")
 st.text("Link: https://www.youtube.com/watch?v=w4eTR7tci6A")
 
 st.write("")
@@ -53,7 +53,7 @@ st.write("""
          
 Zappos used an MVP approach by testing online demand for shoes without holding any inventory. Founder Nick Swinmurn posted photos of shoes from local stores on a simple website and only purchased the shoes from stores when customers placed orders. This method allowed him to validate the key assumption—that people would buy shoes online—without the financial risk of a large inventory investment. By focusing on learning about customer preferences and online shopping behavior, Zappos gathered essential feedback and refined their processes based on real orders. This MVP approach helped confirm the viability of online shoe sales, leading to Zappos’ rapid growth and eventual acquisition by Amazon.
 """)
-st.image("zappos.png")
+st.image("app/zappos.png")
 
 st.write("")
 st.write("")
@@ -66,7 +66,7 @@ st.write("""
 Airbnb used an MVP approach by testing demand for short-term home rentals with a simple website. Founders Brian Chesky and Joe Gebbia initially rented out their own apartment in San Francisco to conference attendees who struggled to find hotel rooms. They created a basic site to list their apartment and included pictures of the space, targeting people who needed temporary accommodation. This small-scale test allowed them to validate their riskiest assumption: that people would be willing to rent space in someone’s home instead of a hotel. The positive response confirmed demand, enabling Airbnb to refine its platform and expand to other hosts. This MVP strategy provided essential early insights into user preferences, laying the groundwork for Airbnb’s global success in the short-term rental market.
          """)
 
-st.image("abnb.png")
+st.image("app/abnb.png")
 
 st.write("")
 st.write("")
